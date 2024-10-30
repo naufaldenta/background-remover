@@ -20,8 +20,9 @@ VITE_SECRET =
 REPLICATE_API_TOKEN=
 ```
 
-finally 
+Finally
 
+```bash
 npm run dev
 # or
 yarn dev
